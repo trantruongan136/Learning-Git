@@ -2,5 +2,7 @@
 .dart_tool/
 .packages
 /file_loi.dart
+/file_loi2.dart
+/folder_loi/*
 # Conventional directory for build output.
 build/
